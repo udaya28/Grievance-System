@@ -1,0 +1,9 @@
+[submodule "Grievance-system-Admin"]
+	path = Grievance-system-Admin
+	url = https://github.com/udaya28/Grievance-system-Admin
+[submodule "Grievance-system-Backend"]
+	path = Grievance-system-Backend
+	url = https://github.com/udaya28/Grievance-system-Backend
+[submodule "Grievance-system-Student"]
+	path = Grievance-system-Student
+	url = https://github.com/udaya28/Grievance-system-Student
